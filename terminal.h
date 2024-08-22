@@ -8,7 +8,7 @@
 #include <semaphore.h>
 
 #if defined(FOOT_GRAPHEME_CLUSTERING)
- #include <utf8proc.h>
+ #include <libutf8proc/utf8proc.h>
 #endif
 
 #include <tllist.h>

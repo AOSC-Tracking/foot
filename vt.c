@@ -5,7 +5,7 @@
 #include <unistd.h>
 
 #if defined(FOOT_GRAPHEME_CLUSTERING)
- #include <utf8proc.h>
+ #include <libutf8proc/utf8proc.h>
 #endif
 
 #define LOG_MODULE "vt"
